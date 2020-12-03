@@ -1,0 +1,32 @@
+==========================
+S[SCRABBLE[0] - RUSTIPLUME[2]]
+P[RUSTIPLUME[5] - PAPOUNET[0]]
+E[PAPOUNET[6] - ALOUETTE[4]]
+L[SCRABBLE[6] - ALOUETTE[1]]
+     R
+     U     A
+     SCRABBLE
+     T     O
+     I     U
+     PAPOUNET
+     L     T
+     U     T
+     M     T
+     E     E
+
+==========================
+S[SCRABBLE[0] - RUSTIPLUME[2]]
+U[RUSTIPLUME[7] - PAPOUNET[4]]
+T[PAPOUNET[7] - ALOUETTE[5]]
+A[SCRABBLE[3] - ALOUETTE[0]]
+
+       R
+       U
+       SCRABBLE
+       T  L
+       I  O
+       P  U
+       L  E
+   PAPOUNET
+       M  T
+       E  E
